@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B67FA7DB-5E03-4121-A595-92071C0CFC65}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureServiceBus/Program.cs">
+    <Files>
+      <File FileName="AzureServiceBus/Program.cs" Line="15" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureServiceBus" expanded="True">
+            <Node name="AzureServiceBusReceiver" expanded="True" />
+            <Node name="AzureServiceBusSender" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AzureServiceBusReceiver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AzureServiceBusSender PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
